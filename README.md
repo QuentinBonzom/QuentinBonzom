@@ -49,6 +49,7 @@
 
 **🔭 Actuellement en train de travailler sur :**  
 🚗 **Garage in the Pocket (App mobile)** — destinée au marché américain  
+---
 🍳 **EasyCook (P3)** — dans le cadre de ma formation Dev Full-Stack  
 
 ---
