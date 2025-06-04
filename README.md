@@ -66,12 +66,12 @@
 
                                                           ## 🛠️ Compétences & Outils
 
-| Langages / Frameworks | Outils / Environnements    |
-| --------------------- | -------------------------- |
-| JavaScript, TypeScript, React, Next.js,  | VSCode, Git, GitHub     |
-| Node.js, Express, MySQL, PostgreSQL            | WakaTime, Figma, Canva         |
-| HTML5, CSS3, Tailwind CSS             | VSC, Windows & MacOS |
-| Framer Motion (animations)                        | Webpack, Biome, ESLint, Prettier   |
+                                        | Langages / Frameworks | Outils / Environnements    |
+                                        | --------------------- | -------------------------- |
+                                        | JavaScript, TypeScript, React, Next.js,  | VSCode, Git, GitHub     |
+                                        | Node.js, Express, MySQL, PostgreSQL            | WakaTime, Figma, Canva         |
+                                        | HTML5, CSS3, Tailwind CSS             | VSC, Windows & MacOS |
+                                        | Framer Motion (animations)                        | Webpack, Biome, ESLint, Prettier   |
 
 ---
 
