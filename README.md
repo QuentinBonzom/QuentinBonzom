@@ -70,7 +70,7 @@
 
 **📫 Contact :**  
 
-📧 qbonzom[@]gmail.com  
+📧 qbonzom@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/quentinbonzom-dev)  
 🌐 [Portfolio](https://portfolio-peeb.vercel.app/)  
 
