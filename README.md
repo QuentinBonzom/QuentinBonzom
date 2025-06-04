@@ -11,7 +11,7 @@
 <!-- ───────────────────────────────────────────────────────────────────── -->
 <h1 align="center">Salut, je suis Quentin ! 👋</h1>
 <p align="center">
-  Développeur Web passionné par le JavaScript, le React, et tout ce qui touche à l’expérience utilisateur. 🚀  
+  Développeur Web passionné par le JavaScript, le React, et tout ce qui touche à l’expérience utilisateur. 🚀 <br/> 
   Toujours curieux, j’aime relever de nouveaux défis et partager mes apprentissages.
 </p>
 
