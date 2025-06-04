@@ -36,9 +36,9 @@
 <!--                           STATISTIQUES WAKATIME                          -->
 <!-- ───────────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <a href="https://wakatime.com/@qbonzom" target="_blank" rel="noopener noreferrer">
+  <a href="https://wakatime.com/@027c6831-f309-4ec3-81cc-1954f83a0ce4" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=qbonzom&range=last_30_days&layout=default&theme=tokyonight&langs_count=5&projects_count=5"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=027c6831-f309-4ec3-81cc-1954f83a0ce4&range=last_30_days&layout=default&theme=tokyonight&langs_count=5&projects_count=5"
       alt="WakaTime (30 derniers jours)" style="border-radius: 6px;" />
   </a>
 </p>
