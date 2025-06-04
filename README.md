@@ -83,6 +83,7 @@
 
 
 ---
+<div align="center">
 
 ## 🛠️ Compétences & Outils
 
@@ -156,8 +157,11 @@
     </tr>
   </table>
 </div>
+</div>
+
 
 ---
+<div align="center">
 
 ### ✨ Pour aller plus loin
 
@@ -168,6 +172,8 @@
 <p align="center" style="margin-top: 40px; color: #1E2A40;">
   Merci d’avoir pris le temps de visiter mon profil !  
 </p>
+</div>
+
 
 <!-- ──────────────────────────────────────────────────────────────────── -->
 <!--                            END OF README                            -->
