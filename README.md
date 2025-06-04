@@ -36,11 +36,10 @@
 <!--                           STATISTIQUES WAKATIME                          -->
 <!-- ───────────────────────────────────────────────────────────────────── -->
 <p align="center">
-  <!-- Remplacez "qbonzom" par votre pseudo WakaTime exact (vérifiez dans votre URL de profil WakaTime) -->
   <a href="https://wakatime.com/@qbonzom" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=qbonzom&layout=compact&theme=tokyonight"
-      alt="Statistiques WakaTime" style="border-radius: 6px;" />
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=qbonzom&range=last_30_days&layout=default&theme=tokyonight&langs_count=5&projects_count=5"
+      alt="WakaTime (30 derniers jours)" style="border-radius: 6px;" />
   </a>
 </p>
 
