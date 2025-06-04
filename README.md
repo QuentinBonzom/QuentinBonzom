@@ -161,13 +161,12 @@
 
 
 ---
-<div align="center">
-
-
-<p align="center" style="margin-top: 40px; color: #1E2A40;">
-  Merci d’avoir pris le temps de visiter mon profil !  
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=2000&color=61DAFB&center=true&vCenter=true&width=600&lines=Merci+d%E2%80%99avoir+pris+le+temps+de+visiter+mon+profil+!"
+    alt="Merci Typing SVG" />
 </p>
-</div>
+
 
 
 <!-- ──────────────────────────────────────────────────────────────────── -->
