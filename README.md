@@ -41,7 +41,7 @@
 
 ---
 
-## 🚀 À propos de moi
+                                                            ## 🚀 À propos de moi
 
 - 🔭 **Actuellement en train de travailler sur** :  
   - Une app mmobile "garage in the pocket" destinée au marché americain.  
@@ -64,7 +64,7 @@
 
 ---
 
-## 🛠️ Compétences & Outils
+                                                          ## 🛠️ Compétences & Outils
 
 | Langages / Frameworks | Outils / Environnements    |
 | --------------------- | -------------------------- |
@@ -76,7 +76,7 @@
 ---
 
 
-## 📈 Mes statistiques GitHub
+                                                          ## 📈 Mes statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=QuentinBonzom&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
@@ -84,7 +84,7 @@
 
 ---
 
-### ✨ Pour aller plus loin
+                                                          ### ✨ Pour aller plus loin
 
 - Si tu veux contribuer à l’un de mes projets, n’hésite pas à ouvrir une **issue** ou un **pull request** !
 - 
