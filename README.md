@@ -84,22 +84,76 @@
 
 ## 🛠️ Compétences & Outils
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong style="color: #61DAFB;">Langages / Frameworks</strong><br/>
-      JavaScript · TypeScript · React · Next.js · Redux<br/>
-      Node.js · Express · MySQL · PostgreSQL<br/>
-      HTML5 · CSS3 · Tailwind CSS<br/>
-      Framer Motion (Animations)
-    </td>
-    <td align="center" width="50%">
-      <strong style="color: #F7DF1E;">Outils / Environnements</strong><br/>
-      VSCode · Git · GitHub · Docker · WakaTime · Figma · Canva<br/>
-      Postman · Windows & MacOS · Biome · ESLint · Prettier
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" alt="HTML5" />
+        <br/>HTML5
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" alt="CSS3" />
+        <br/>CSS3
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" alt="JavaScript" />
+        <br/>JavaScript
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript" />
+        <br/>TypeScript
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px" alt="React" />
+        <br/>React
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60px" alt="Next.js" />
+        <br/>Next.js
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60px" alt="Tailwind CSS" />
+        <br/>Tailwind CSS
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60px" alt="Node.js" />
+        <br/>Node.js
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60px" alt="Express" />
+        <br/>Express
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" alt="MySQL" />
+        <br/>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60px" alt="Git" />
+        <br/>Git
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60px" alt="GitHub" />
+        <br/>GitHub
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60px" alt="VS Code" />
+        <br/>VS Code
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60px" alt="Figma" />
+        <br/>Figma
+      </td>
+      <td align="center" style="padding: 10px 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="60px" alt="Webpack" />
+        <br/>Webpack
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
