@@ -43,7 +43,6 @@
   </a>
 </p>
 
----
 
 ## 📈 Mes statistiques GitHub
 
