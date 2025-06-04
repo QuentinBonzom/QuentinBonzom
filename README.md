@@ -32,19 +32,28 @@
 
 ---
 
-<div align="center" style="margin: 40px 0;">
-  <!-- SECTION WAKATIME + STATS GITHUB (COULEUR ACCENT : #F7DF1E / #61DAFB) -->
-  <a href="https://wakatime.com/@Bonzom" target="_blank" rel="noopener noreferrer">
+<!-- ───────────────────────────────────────────────────────────────────── -->
+<!--                           STATISTIQUES WAKATIME                          -->
+<!-- ───────────────────────────────────────────────────────────────────── -->
+<p align="center">
+  <!-- Remplacez "qbonzom" par votre pseudo WakaTime exact (vérifiez dans votre URL de profil WakaTime) -->
+  <a href="https://wakatime.com/@qbonzom" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Bonzom&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=qbonzom&layout=compact&theme=tokyonight"
       alt="Statistiques WakaTime" style="border-radius: 6px;" />
   </a>
-  <br/><br/>
+</p>
+
+---
+
+## 📈 Mes statistiques GitHub
+
+<p align="center">
+  <!-- Carte GitHub Stats officielle, qui fonctionne si votre pseudo GitHub est 'QuentinBonzom' -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=QuentinBonzom&show_icons=true&theme=tokyonight&count_private=true"
     alt="GitHub Stats" style="max-width: 80%; border-radius: 6px;" />
-</div>
-
+</p>
 ---
 
 ## 🚀 À propos de moi
