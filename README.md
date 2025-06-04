@@ -56,17 +56,20 @@
 ---
 
 **🌱 En cours d’apprentissage :**  
+
 🐬 **MySQL** — création de bases de données interactives  
 
 ---
 
 **🤝 Ouvert à la collaboration :**  
+
 🌐 Projets **Open Source** (React / Node / TypeScript)  
 🎨 Initiatives autour des **design systems** et des **animations web**  
 
 ---
 
 **📫 Contact :**  
+
 📧 qbonzom[@]gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/quentinbonzom-dev)  
 🌐 [Portfolio](https://portfolio-peeb.vercel.app/)  
