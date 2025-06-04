@@ -43,30 +43,39 @@
     alt="GitHub Stats" style="max-width: 80%; border-radius: 6px;" />
 </p>
 
+<div align="center">
+
 ## 🚀 À propos de moi
 
-<div align="center">
-  <p style="text-align: left; max-width: 700px;">
-    - 🔭 **Actuellement en train de travailler sur :**  
-      ‣ Une app mobile **“Garage in the Pocket”** destinée au marché américain.  
-      ‣ Une P3 **“EasyCook”** dans le cadre de ma formation Dev Full-Stack !  
+**🔭 Actuellement en train de travailler sur :**  
+- 🚗 **Garage in the Pocket (App mobile)** — destinée au marché américain  
+- 🍳 **EasyCook (P3)** — dans le cadre de ma formation Dev Full-Stack  
 
-    - 🌱 **En train d’apprendre :**  
-      ‣ **MySQL** pour créer des bases de données interactives !  
+---
 
-    - 🤝 **Ouvert à la collaboration sur :**  
-      ‣ Projets **Open Source** (React / Node / TypeScript).  
-      ‣ Initiatives liées aux **design systems** ou aux **animations web** complexes.  
+**🌱 En cours d’apprentissage :**  
+- 🐬 **MySQL** — création de bases de données interactives  
 
-    - 📫 **Comment me contacter :**  
-      ‣ 📧 qbonzom[@]gmail.com  
-      ‣ 💼 [LinkedIn](https://www.linkedin.com/in/quentinbonzom-dev)  
-      ‣ 🌐 [Portfolio](https://portfolio-peeb.vercel.app/)  
+---
 
-    - ⚡ **Fun fact :**  
-      J’ai un petit truc en moins mais une grosse motivation. 🚴‍♂️  
-  </p>
+**🤝 Ouvert à la collaboration :**  
+- 🌐 Projets **Open Source** (React / Node / TypeScript)  
+- 🎨 Initiatives autour des **design systems** et des **animations web**  
+
+---
+
+**📫 Contact :**  
+- 📧 qbonzom[@]gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/quentinbonzom-dev)  
+- 🌐 [Portfolio](https://portfolio-peeb.vercel.app/)  
+
+---
+
+> ⚡ **Fun fact :**  
+> J’ai un petit truc en moins mais une grosse motivation. 🚴‍♂️
+
 </div>
+
 
 ---
 
