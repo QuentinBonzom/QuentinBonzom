@@ -163,7 +163,7 @@
 ---
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=2000&color=61DAFB&center=true&vCenter=true&width=600&lines=Merci+d%E2%80%99avoir+pris+le+temps+de+visiter+mon+profil+!"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=2000&color=61DAFB&center=true&vCenter=true&width=1000&lines=Merci+d%E2%80%99avoir+pris+le+temps+de+visiter+mon+profil+!"
     alt="Merci Typing SVG" />
 </p>
 
