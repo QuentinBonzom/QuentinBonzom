@@ -12,9 +12,7 @@
 
 <div align="center" style="background-color: #A0D8EF; padding: 40px 0;">
   <!-- TITRE PRINCIPAL EN COULEUR "REACT" (#61DAFB) -->
-  <h1 style="color: #61DAFB; font-size: 3rem; margin-bottom: 0.5rem;">
-    Salut, je suis Quentin ! 👋
-  </h1>
+  
   <!-- SOUS-TITRE EN COULEUR CLAIRE (#1E2A40) -->
   <p style="color: #1E2A40; font-size: 1.2rem; margin-top: 0;">
     Développeur Web passionné par le JavaScript, le React, et tout ce qui touche à l’expérience utilisateur. 🚀<br/>
