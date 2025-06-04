@@ -30,7 +30,6 @@
     alt="MacOS" />
 </div>
 
----
 
 <!-- ───────────────────────────────────────────────────────────────────── -->
 <!--                           STATISTIQUES WAKATIME                          -->
@@ -52,7 +51,7 @@
     src="https://github-readme-stats.vercel.app/api?username=QuentinBonzom&show_icons=true&theme=tokyonight&count_private=true"
     alt="GitHub Stats" style="max-width: 80%; border-radius: 6px;" />
 </p>
----
+
 
 ## 🚀 À propos de moi
 
