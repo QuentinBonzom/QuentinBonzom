@@ -115,7 +115,8 @@
       </td>
       <td align="center" style="padding: 10px 20px;">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg
+"
     width="60px"
     alt="Tailwind CSS" />
   <br/>Tailwind CSS
